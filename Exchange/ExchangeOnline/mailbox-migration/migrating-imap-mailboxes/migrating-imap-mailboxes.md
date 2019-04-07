@@ -37,7 +37,7 @@ For Windows PowerShell steps, see [Use PowerShell to perform an IMAP migration t
 
 Here are a few limitations to be aware of:
 
-- You can only migrate items in a user's inbox or other mail folders. This type of migration doesn't migrate contacts, calendar items, or tasks.
+- You can only migrate items in a user's inbox or other mail folders, but no Sub-Folders or nested folders inside the main folders. This type of migration doesn't migrate contacts, calendar items, or tasks. 
 
 - You can migrate a maximum of 500,000 items from a user's mailbox (emails are migrated from newest to oldest).
 
